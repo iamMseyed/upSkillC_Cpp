@@ -1,14 +1,16 @@
 # upSkillC_Cpp
 <h1>Demonstrating C and C++ concepts alongside with programs </h1>
 
-<p>Few highlighted topics </p>
+<p>Few highlighted topics: </p>
 <ol>
-  <li>Array.</li>
+  <li>Basic Concepts</li>
+  <li>Arrays.</li>
+  <li>Array sorting.</li>
   <li>Pointers.</li>
   <li>Functions.</li>
   <li>Union.</li>
   <li>Structure.</li>
   <li>Dynamic memory allocation.</li>
-  <li>OOPs concepts.</li>
+  <li>OOP concepts.</li>
 </ol>
 
